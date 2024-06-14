@@ -1,0 +1,16 @@
+.btnB{
+    background-color: transparent;
+    border: 2px solid aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 15px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.btnB:hover{
+    color: #74fac0;
+    background-color: #010b28;
+    transition-duration: 0.5s;
+    transform: translateY(-7px);
+}
