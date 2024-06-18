@@ -1,0 +1,46 @@
+.footer{
+    display: grid;
+    justify-content: center;
+    
+}
+
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    margin-bottom: 0px;
+    color: aliceblue; 
+
+}
+
+.footer a{
+    color: aliceblue !important;
+}
+
+
+ .footer li{
+    margin-left: 15px;
+ }
+
+
+.thend{
+    margin-left: 50px;
+}
+
+.thend p{
+     margin-top: 0px;
+     margin-bottom: 0px;
+     padding-top: 0px;
+     font-size: small;
+     font-weight: 100;
+}
+
+.thend :first-child{
+    margin-top: 10px;
+    
+}
+
+.thend :last-child{
+    margin-bottom: 50px;
+}

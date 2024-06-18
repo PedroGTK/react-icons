@@ -12,9 +12,9 @@ function Navbar(){
                 <li><Nav.Link href='#project'>Projetos</Nav.Link></li>
             </ul>
             <ul>
-                <li> <a href='https://www.instagram.com/pedro_edilson18/'> <FaInstagram size={30}/> </a></li>
-                <li> <a href='https://github.com/PedroGTK'> <FaGithub size={30}/></a>  </li>
-                <li> <a href='https://www.linkedin.com/in/pedro-edilson-503533235/'> <FaLinkedinIn size={30}/></a>  </li>
+                <li> <a href='https://www.instagram.com/pedro_edilson18/'> <FaInstagram size={25}/> </a></li>
+                <li> <a href='https://github.com/PedroGTK'> <FaGithub size={25}/></a>  </li>
+                <li> <a href='https://www.linkedin.com/in/pedro-edilson-503533235/'> <FaLinkedinIn size={25}/></a>  </li>
                 
             </ul>
         </div>
