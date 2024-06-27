@@ -1,5 +1,5 @@
 import styles from './Projects.module.css'
-
+import ButtonB from '../elements/ButtonB'
 import Card from '../elements/Card'
 import DNC from '../../Img/projects/DNC.svg'
 import portifolio from '../../Img/projects/portifolio.jpeg'
