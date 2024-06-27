@@ -10,10 +10,10 @@ function Presentation (){
             <h4><strong>Bem-vindo ao meu Portfólio</strong></h4>
             <h1>Olá, eu sou Pedro Edilson!</h1>
             <p>Sou um apaixonado por tecnologia e soluções inovadoras. <br></br>
-                Como Product Manager, eu tenho o compromisso de resolver problemas <br></br>
-                complexos e trazer resultados excepcionais para os negócios. <br></br>
-                Meus projetos já geraram milhões de reais em receita anual<br></br>
-                estou sempre em busca de novos desafios para superar</p>
+                Por conta disso, estou em transição para a área de desenvolvimento full stack. <br></br>
+                Já concluí diversos projetos e estou sempre em busca de aprender mais sobre programação. <br></br>
+                Vem conhecer um pouco mais do meu trabalho!!! <br></br>
+                </p>
         
                 <ButtonA link = 'https://github.com/PedroGTK' text = 'Conecte-se comigo!! '></ButtonA>
                 

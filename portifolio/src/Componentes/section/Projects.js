@@ -21,7 +21,7 @@ function Projects (){
                     tech = " React"
                     description=" Desenvolvimento de um portfólio destinado a apresentar de forma resumida todos os meus conhecimentos e características. "
                     repo='https://github.com/PedroGTK/react-icons'
-                    site='https://www.figma.com/design/eSXxtUyIh9BDSTi7KRCfBe/React-para-Desenvolvimento-web?node-id=1-2'
+                    site=''
                 />
 
 
@@ -41,7 +41,7 @@ function Projects (){
                     tech = " Nunjucks, CSS, JS e TS"
                     description=" Desenvolvimento de uma pagina de controle de academia, no qual o propreitario terá acesso as informações dos seus funcinários "
                     repo='https://github.com/PedroGTK/controle_de_academia'
-                    site='https://www.figma.com/design/eSXxtUyIh9BDSTi7KRCfBe/React-para-Desenvolvimento-web?node-id=1-2'
+                    site=''
                 />
 
                 <Card 
@@ -50,7 +50,7 @@ function Projects (){
                     tech = " HTML, CSS e JS"
                     description=" Desenvolvimento de uma Landing page para uma enpresa de arquitetura"
                     repo='https://github.com/PedroGTK/Landing-Page-Arquiterura'
-                    site='https://www.figma.com/design/eSXxtUyIh9BDSTi7KRCfBe/React-para-Desenvolvimento-web?node-id=1-2'
+                    site=''
                 />
             </div>
 
@@ -61,7 +61,7 @@ function Projects (){
                     tech = " HTML, CSS e JS"
                     description=" Desenvolvimento de uma pagina voltada para informações de um evento, infomrando quantos dias falta até esse evento"
                     repo='https://github.com/PedroGTK/desafioccxp'
-                    site='https://www.figma.com/design/eSXxtUyIh9BDSTi7KRCfBe/React-para-Desenvolvimento-web?node-id=1-2'
+                    site=''
                 />
 
                 <Card 
@@ -70,7 +70,7 @@ function Projects (){
                     tech = " HTML, CSS e JS"
                     description=" Desenvolvimento e integraçãoes de API mostrando o local e o clima presente nele "
                     repo='https://github.com/PedroGTK/DesafioAPI_CEP'
-                    site='https://www.figma.com/design/eSXxtUyIh9BDSTi7KRCfBe/React-para-Desenvolvimento-web?node-id=1-2'
+                    site=''
                 />
             </div>
             
