@@ -1,11 +1,19 @@
 .card{
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin: 15px;
+    margin-left: 25%;
 }
 
+.card:hover{
+    margin-left: 10%;
+    transition-duration: 0.7s ;
+}
+
+
+
 .card img{
-    width: 400px !important;
+    width: 450px !important;
     margin-top: 20px;
     border-radius: 10px;
 }
